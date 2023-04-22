@@ -1,0 +1,17 @@
+{
+  "name": "2-oy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ismoilov Shakhruz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
